@@ -22,8 +22,8 @@
 | `save` | Save configuration |
 
 ### Screenshots
-- [Network Diagram](GNS3-Intro-YOURID-network.png)
-- [Console IP Verification](GNS3-Intro-YOURID-ipaddress.png)
+![networkdiagram](./images/week4-task3-lana.png.png)
+![consoleipverification](./images/week4-task3-lana.png.png)
 
 ### Reflection
 Successfully configured a Linux host with static IP 10.10.1.1 using GNS3. Understood how to set IP addresses manually and verify connectivity. VPCS is a simple yet effective tool for basic host simulation.
