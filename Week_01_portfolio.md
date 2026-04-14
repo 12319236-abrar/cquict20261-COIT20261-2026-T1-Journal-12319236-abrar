@@ -23,6 +23,7 @@
 
 ### Screenshots
 ![networkdiagram](./images/GNS3-Intro-12319236-network.png)
+![RAM](./images/week02-task02-RAM.png)
 ![consoleipverification](./images/week1-consoleip.png)
 
 ### Reflection
