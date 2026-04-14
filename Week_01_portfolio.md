@@ -23,7 +23,7 @@
 
 ### Screenshots
 ![networkdiagram](./images/GNS3-Intro-12319236-network.png)
-![consoleipverification](./images/week4-task3-lana.png.png)
+![consoleipverification](./images/week1-consoleip.png)
 
 ### Reflection
 Successfully configured a Linux host with static IP 10.10.1.1 using GNS3. Understood how to set IP addresses manually and verify connectivity. VPCS is a simple yet effective tool for basic host simulation.
