@@ -22,7 +22,7 @@
 | `save` | Save configuration |
 
 ### Screenshots
-![networkdiagram](./images/week4-task3-lana.png.png)
+![networkdiagram](./images/GNS3-Intro-12319236-network.png)
 ![consoleipverification](./images/week4-task3-lana.png.png)
 
 ### Reflection
