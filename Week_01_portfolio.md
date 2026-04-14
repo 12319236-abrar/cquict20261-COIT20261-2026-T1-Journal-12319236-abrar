@@ -21,6 +21,9 @@
 | `show ip` | Verify IP configuration |
 | `save` | Save configuration |
 
+### Project file
+![GNS3 project](GNS3-Intro--network.png)
+
 ### Screenshots
 ![networkdiagram](GNS3-Intro-12319236-network.png)
 ![consoleipverification](week1-consoleip.png)
