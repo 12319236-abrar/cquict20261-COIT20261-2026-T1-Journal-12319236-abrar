@@ -29,16 +29,16 @@
 ### Verification Screenshots
 
 #### PC1 (10.1.1.1)
-![PC1 IP](Setting-IP-12319236-host1.png)
+![PC1 IP](week2-task1-pc1showip.png)
 
 #### PC2 (10.1.1.2)
-![PC2 IP](Setting-IP-12319236-host2.png)
+![PC2 IP](week2-task1-pc2showip.png)
 
 #### PC3 (10.1.1.3)
-![PC3 IP](Setting-IP-12319236-host3.png)
+![PC3 IP])(week2-task1-pc3showip.png)
 
 #### PC4 (10.1.1.4)
-![PC4 IP](Setting-IP-12319236-host4.png)
+![PC4 IP](week2-task1-pc4showip.png)
 
 ### Commands Used
 
