@@ -138,7 +138,7 @@ text
 
 **Ping Screenshot**
 
-![Ping](Ping-Basics-12319236-simple.png)
+![Ping](week2-task2-ping.png)
 ---
 
 ## Key Concepts Learned
