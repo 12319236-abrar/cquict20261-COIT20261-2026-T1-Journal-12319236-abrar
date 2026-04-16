@@ -16,6 +16,7 @@
 - Network: 10.1.1.0/24
 
 ![Network Topology](week2-settings-ip.png)
+(settings-gns)(settings-ip-12319236.gns3project)
 
 ### IP Configuration Results
 
