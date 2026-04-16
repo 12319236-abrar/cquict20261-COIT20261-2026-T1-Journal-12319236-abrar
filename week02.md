@@ -15,7 +15,7 @@
 - 1 x Ethernet Switch
 - Network: 10.1.1.0/24
 
-![Network Topology](Setting-IP-12319236-network.png)
+![Network Topology](week2-settings-ip.png)
 
 ### IP Configuration Results
 
