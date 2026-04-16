@@ -90,9 +90,7 @@ ping 10.1.1.2
 - Average RTT: ~0.96 ms
 - Destination reachable
 
-![Simple Ping](Ping-Basics-12319236-simple.png)
 
----
 
 ### Test 2: Ping to Non-existent IP Address
 
@@ -110,9 +108,6 @@ text
 - Equivalent to 100% packet loss
 - Confirms that 10.1.1.99 is not assigned to any device
 
-![Error Ping](Ping-Basics-12319236-error.png)
-
----
 
 ### Test 3: Ping with Count Control (Manual)
 
@@ -141,8 +136,9 @@ text
 
 **Note:** VPCS does not support advanced ping options like `-c` (count) or `-s` (packet size). The learning outcome was achieved by manually limiting the ping to 5 responses using Ctrl+C.
 
-![Ping with Options](Ping-Basics-12319236-options.png)
+**Ping Screenshot**
 
+![Ping](Ping-Basics-12319236-simple.png)
 ---
 
 ## Key Concepts Learned
