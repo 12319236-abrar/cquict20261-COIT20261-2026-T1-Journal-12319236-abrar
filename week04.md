@@ -17,6 +17,8 @@ The network consists of:
 - 1 Linux Router
 - 1 Ethernet Switch
 
+![route](week4-routes.png)
+
 ### IP Addressing Plan
 
 | Device | Interface | IP Address | Gateway |
@@ -26,7 +28,9 @@ The network consists of:
 | Router | eth0 | 10.1.1.1/24 | N/A |
 | Router | eth1 | 10.1.2.1/24 | N/A |
 | PC3 | eth0 | 10.1.2.2/24 | 10.1.2.1 |
-
+![pc1]()
+![pc2]()
+![pc3]()
 ### Forwarding Configuration
 
 | Device | Command | Purpose |
