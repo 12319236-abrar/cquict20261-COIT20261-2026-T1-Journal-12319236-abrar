@@ -192,11 +192,6 @@ This week I learned how routing works and how packets move between different sub
 
 ---
 
-## Files in Repository
-
-- `week04.md` - This portfolio entry
-- `View-Routes-12319236.gns3project` - Exported project (if available)
-- `OSPF-Basics-12319236.gns3project` - Exported OSPF project (if available)
 
 ---
 
