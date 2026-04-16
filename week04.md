@@ -28,9 +28,9 @@ The network consists of:
 | Router | eth0 | 10.1.1.1/24 | N/A |
 | Router | eth1 | 10.1.2.1/24 | N/A |
 | PC3 | eth0 | 10.1.2.2/24 | 10.1.2.1 |
-![pc1]()
-![pc2]()
-![pc3]()
+![pc1](week4_1.png)
+![pc2](week4_2.png)
+![pc3](week4_3.png)
 ### Forwarding Configuration
 
 | Device | Command | Purpose |
