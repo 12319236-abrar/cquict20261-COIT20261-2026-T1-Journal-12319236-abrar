@@ -35,7 +35,7 @@
 ![PC2 IP](week2-task1-pc2showip.png)
 
 #### PC3 (10.1.1.3)
-![PC2 IP](week2-task1-pc2showip.png)
+![PC2 IP](week2-task1-pc3showip.png)
 
 #### PC4 (10.1.1.4)
 ![PC4 IP](week2-task1-pc4showip.png)
