@@ -91,6 +91,7 @@ Subnet 1 (10.1.1.0/24)        Subnet 2 (10.1.2.0/24)
     Router1 ----------------------- Router2
                      10.1.3.0/24
 Device Configuration
+
 Subnet 1: 10.1.1.0/24
 Device	Interface	IP Address	Gateway	Forwarding
 PC1	eth0	10.1.1.2/24	10.1.1.1	Disabled (0)
@@ -252,14 +253,7 @@ Can't reach far subnet	Missing route	Add specific route
 Why Two Tasks Together
 Task 1 (ARP) shows how devices find each other on the same subnet. Task 2 (Default Gateways) shows how devices find each other across different subnets. Together, they explain how all network communication works.
 
-Files in Repository
-Task 1 Files
-ARP-Basics-12319236-HostA-Table.png - ARP table screenshot(s)
 
-Task 2 Files
-Default-Gateway-12319236.gns3project - Exported project
-
-Default-Gateway-12319236-network.png - Network topology screenshot
 
 Default-Gateway-12319236-ping.png - Ping test screenshot
 
